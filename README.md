@@ -4,6 +4,14 @@
 
 ## 发现小程序
 
+### 通过扫码
+
+使用微信扫一扫如下二维码：
+
+![小程序二维码](https://ws2.sinaimg.cn/large/006tNc79ly1fz67kqmpi3j3076076wew.jpg)
+
+### 通过搜索
+
 在微信中搜索，输入`海育佳集团`，点击“搜一搜 海育佳集团”，在搜索结果中点击“海育佳集团 小程序”，即可进入。
 
 ![搜索小程序](https://ws2.sinaimg.cn/large/006tNc79ly1fz5dsumu7kj30u01o0t9d.jpg)
