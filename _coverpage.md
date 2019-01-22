@@ -1,6 +1,6 @@
 ![logo](_media/icon.png)
 
-# 海育佳集团小程序 <small>0.2.12</small>
+# 海育佳集团小程序 <small>0.2.16</small>
 
 > 一个简洁、方便的 OA 系统客户端。
 
